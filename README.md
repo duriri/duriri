@@ -65,5 +65,10 @@ I'm a passionate Machine Learning Engineer with a strong academic and practical 
 
 
 
+## 📢 Community & Teaching
+
+I run a **Telegram channel** where I simplify complex AI topics and share practical tips, tools, and tutorials on NLP, LLMs, and machine learning.
+
+👉 [@Ml_duriri](https://t.me/Ml_duriri) – Simplify AI for Everyone  
 
 Thanks for stopping by! Feel free to check out my repositories or connect with me via email.
