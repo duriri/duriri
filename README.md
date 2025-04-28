@@ -2,7 +2,6 @@
 
 🎓 Master’s in Artificial Intelligence & Robotics  
 🔬 Specialization: Natural Language Processing (NLP)  
-📍 Based in Tehran, Iran  
 📫 Email: faezeabd78@gmail.com 
 
 ---
